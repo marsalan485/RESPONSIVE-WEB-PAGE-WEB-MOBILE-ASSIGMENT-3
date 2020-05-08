@@ -1,0 +1,21 @@
+td {
+  text-align: left;
+  column-gap: 50px;
+}
+fieldset {
+  
+  padding: 20px;
+  width: 300px;
+  border: solid 1px;
+  margin: auto;
+  background-color:rgb(106, 90, 205);
+}
+
+label {
+  line-height: 29px;
+  margin-right: 80px;
+}
+
+input {
+  height: 20px;
+}
